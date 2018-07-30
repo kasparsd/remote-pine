@@ -1,3 +1,3 @@
-# SIM800 GPRS Modem for Raspberry Pi
+# Remote Pine
 
-Use [RPI GSM Add-on V2.0](https://www.itead.cc/wiki/RPI_SIM800_GSM/GPRS_ADD-ON_V2.0) as a GSM modem with Raspberry Pi.
+Enable remote access to Raspberry Pi via the [RPI GSM Add-on V2.0](https://www.itead.cc/wiki/RPI_SIM800_GSM/GPRS_ADD-ON_V2.0) (with the SIM800 radio).
