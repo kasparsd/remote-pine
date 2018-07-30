@@ -1,0 +1,18 @@
+# Change `internet` to match your APN.
+connect "/usr/sbin/chat -v -f /etc/chatscripts/gprs -T internet"
+
+/dev/ttyAMA0
+
+9600
+
+noipdefault
+
+usepeerdns
+
+persist
+
+noauth
+
+nocrtscts
+
+local

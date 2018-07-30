@@ -1,0 +1,6 @@
+
+auto pine
+iface pine inet ppp
+	provider pine
+	pre-up "$PWD/scripts/radio"
+	post-down "$PWD/scripts/radio"
